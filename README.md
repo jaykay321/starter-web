@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How to Contribute
+
+### Copyright
+
+Copyrigth 2020 Git. training
