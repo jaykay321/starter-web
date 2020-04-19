@@ -18,6 +18,10 @@ Information for developers
 
 Please fork this repository and issue pull request
 
+### Info
+
+Improving readme file
+
 ### Copyright
 
 Copyrigth 2020 Git. training. All rights reserved
